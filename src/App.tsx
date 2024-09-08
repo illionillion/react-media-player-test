@@ -1,6 +1,6 @@
 import { FC } from "react"
 import { BrowserRouter, Navigate, Route, Routes } from "react-router-dom";
-import { Home } from "./screens/Home";
+import { Home } from "./screens/home";
 import { ReactAudioPlayerExample } from "./screens/react-audio-player";
 import { H5AudioPlayerExample } from "./screens/react-h5-audio-player";
 
